@@ -1,0 +1,10 @@
+Usage
+
+ 1. In order to use this file install The following packages
+    i) DateTime
+    ii) requests
+    iii) tkintler
+    iv) time
+    v) messagebox
+ 2.  Make sure that both cloud.ico and the mountains.png are in both a single folder
+ 3.  Boom The app is ready to use
